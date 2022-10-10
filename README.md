@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## chill gif:
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
+<br>
+<br>
 <!--
 **prakhar855/prakhar855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
